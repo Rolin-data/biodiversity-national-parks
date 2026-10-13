@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistem operasi
+Thumbs.db
+Desktop.ini
+.DS_Store
